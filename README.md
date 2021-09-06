@@ -3,3 +3,9 @@
 Bütün herşeyi bana ait olarak saf php ile yazdım herhangi bir framework kullanmadım bu projemde.
 
 Assets-> css,js,img,font şeklinde ilerlemedim tek sayfa olduğu için biraz karışık dosya düzeni gözükebilir ama diğer projelerimde daha düzenli bir dosya yapısı kullanıyorum.
+
+Kullanmak isteyen olursa database'i veririm ulaşmak için ya mail adresimden ya da instagram üzerinden ulaşabilirsiniz.
+
+Mail: muratkcdgx@gmail.com
+İnstagram: https://www.instagram.com/muratkocdag1/
+Linkedin: https://www.linkedin.com/in/muratkocdag/
